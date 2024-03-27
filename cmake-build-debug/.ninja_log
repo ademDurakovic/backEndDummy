@@ -1,0 +1,11 @@
+# ninja log v5
+4	219	1711303188129687390	CMakeFiles/untitled1.dir/main.cpp.o	b58fc210c5f2e566
+5	21	1711302581115189363	CMakeFiles/untitled1.dir/Test.cpp.o	1007b31fb9dcb9c0
+288	313	1711303188225203749	untitled1	86905f9607ad854
+4	224	1711302780305076967	CMakeFiles/untitled1.dir/Mines.cpp.o	1164c48c654acced
+4	24	1711303112593411114	CMakeFiles/untitled1.dir/CasinoGameInterface.cpp.o	fe40d7e18864342a
+4	287	1711303188197820116	CMakeFiles/untitled1.dir/CoinGame.cpp.o	fd37bb1a4b2aa049
+4	228	1711303112795752621	CMakeFiles/untitled1.dir/Casino.cpp.o	dcc4f7bf0ce45be9
+4	236	1711303112803930779	CMakeFiles/untitled1.dir/Player.cpp.o	dc154ca13e2fdf3d
+4	283	1711558623543319161	CMakeFiles/untitled1.dir/main.cpp.o	b58fc210c5f2e566
+283	321	1711558623581955446	untitled1	6c7400650f6c696b
